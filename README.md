@@ -1,2 +1,3 @@
 # github-demo
-my first git hub repository
+ this is  my first git repository
+ Author-Dhruvi grover
